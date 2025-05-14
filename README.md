@@ -181,6 +181,6 @@ POST /predict
 
 ---
 
-### Author: Vinay M.
+### Author: Darshan J Baligeri.
 
 For queries, contact: baligeri.darshan@gmail.com
