@@ -1,0 +1,70 @@
+# --- Node.js / React ---
+node_modules/
+build/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Python / Flask / Django ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+env/
+venv/
+ENV/
+VENV/
+.idea/
+.vscode/
+.DS_Store
+*.sqlite3
+db.sqlite3
+
+# --- Python virtualenv / pipenv ---
+Pipfile.lock
+poetry.lock
+.venv/
+pip-wheel-metadata/
+
+# --- Django ---
+staticfiles/
+media/
+*.pot
+*.pyc
+*.mo
+*.log
+
+# --- Flask ---
+instance/
+*.db
+*.sqlite
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- System Files ---
+Thumbs.db
+.DS_Store
+
+# --- VSCode ---
+.vscode/
+
+# --- Coverage Reports ---
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+*/venv/
+*/.venv/
